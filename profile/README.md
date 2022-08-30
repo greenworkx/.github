@@ -1,4 +1,4 @@
-![greenworkx](/cover.png)
+![greenworkx](/profile/cover.png)
 
 # 10 million green workers in 10 years
 
