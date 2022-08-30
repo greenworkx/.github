@@ -6,11 +6,8 @@ At [greenworkx](https://greenworkx.org), our mission is to tackle the green skil
 
 <details>
   <summary><h2>There is a green skills emergency</h2></summary>
-
-    <p><b>30 million</b> more green workers are needed globally **by 2030** for us to reach net-zero and prevent catastrophic climate breakdown</p>
-
-    <p>Without these workers, we won't be able to build the critical green infrastucture that we need for renewable power, energy efficiency and electric vehicles.</p>
-
+  <p><b>30 million</b> more green workers are needed globally **by 2030** for us to reach net-zero and prevent catastrophic climate breakdown</p>
+  <p>Without these workers, we won't be able to build the critical green infrastucture that we need for renewable power, energy efficiency and electric vehicles.</p>
 </details>
 
 
